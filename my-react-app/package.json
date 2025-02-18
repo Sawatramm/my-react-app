@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Sawatramm.github.io/my-react-app/",
+  //"homepage": "https://Sawatramm.github.io/my-react-app/",
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
+    // "predeploy": "npm run build",
+    // "deploy": "gh-pages -d dist"
 
   },
   "dependencies": {
